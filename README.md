@@ -1,16 +1,14 @@
-## Hi there 👋
+# Привет, я Никита
 
-<!--
-**chEErep/chEErep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент СПбПУ, изучаю информационную безопасность и разработку.
+Интересуюсь безопасностью приложений, ищу возможности для стажировки/junior-позиции для получения практического опыта
 
-Here are some ideas to get you started:
+## Проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Blind SQL Injection Lab](https://github.com/chEErep/blind-sqli-lab) —
+  учебный стенд на Flask и MySQL для изучения time-based SQL-инъекции.
+  В проекте можно сравнить уязвимый и параметризованный SQL-запрос.
+
+## Технологии
+
+Python, C/C++, SQL, Git, Docker, Linux.
